@@ -3,7 +3,7 @@
  * Title : PICNIC
  * Date  : 2020-03-04
  * URL   : https://www.algospot.com/judge/problem/read/PICNIC
- * Tags  : algospot, 경우의수, 탐색
+ * Tags  : algospot, 경우의수, 완전탐색
  *
  **/
 

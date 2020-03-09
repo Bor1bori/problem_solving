@@ -3,7 +3,7 @@
  * Title : BOARDCOVER
  * Date  : 2020-03-09
  * URL   : https://www.algospot.com/judge/problem/read/BOARDCOVER
- * Tags  : algospot, 경우의수, 탐색
+ * Tags  : algospot, 경우의수, 완전탐색
  *
  **/
 

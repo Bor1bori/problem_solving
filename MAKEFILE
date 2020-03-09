@@ -1,0 +1,12 @@
+ifdef OS
+  RM = del /Q
+  FixPath = $(subst /,\,*.exe)
+else
+  ifeq ($(shell uname), Linux)
+    RM = rm -f
+    FixPath = *.exe
+  endif
+endif
+
+clean:
+	$(RM) *.exe
